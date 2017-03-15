@@ -1,0 +1,2 @@
+es6中的箭头函数（=>）中的this
+转es5是 var _this = this，它会指向上级的this，本身并不会有this。

@@ -1,2 +1,11 @@
 es6中的箭头函数（=>）中的this
 转es5是 var _this = this，它会指向上级的this，本身并不会有this。
+js使用new创建对象的过程
+var p = new Person('张三',20);
+1. var p={}; 初始化一个对象p。
+2. p._proto_=Person.prototype;，将对象p的 __proto__ 属性设置为 Person.prototype
+3. Person.call(p,”张三”,20);调用构造函数Person来初始化p。关于call/apply使用
+call方法：把person放在p的环境里执行，p可以执行person里的方法，
+在这里对“prototype”和“proto”进行简单的介绍：
+对于所有的对象，都有__proto__属性，这个属性对应该对象的原型.
+对于函数对象，除了__proto__属性之外，还有prototype属性，当一个函数被用作构造函数来创建实例时，该函数的prototype属性值将被作为原型赋值给所有对象实例（也就是设置实例的__proto__属性）

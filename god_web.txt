@@ -4,3 +4,4 @@ webpack中文指南     http://webpackdoc.com/module-system.html
 fetch讲解     https://segmentfault.com/a/1190000003810652
 async/await异步最佳方案       http://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6
 js好网站资源 --原型链       http://www.jb51.net/article/80109.htm
+如何使javascript更高效    http://mt.sohu.com/20170320/n483980156.shtml

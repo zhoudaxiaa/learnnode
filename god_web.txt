@@ -1,7 +1,8 @@
-入门reactjs    http://reactjs.cn/react/docs/getting-started-zh-CN.html
+﻿入门reactjs    http://reactjs.cn/react/docs/getting-started-zh-CN.html
 手把手教webpack     http://url.pansoso.com/?a=pcurl&u=aHR0cDovL3d3dy5tYW1pY29kZS5jb20vaW5mby1kZXRhaWwtMTQ0Mzk2MC5odG1s&t=5omL5oqK5omL5pWZ5L2g5aaC5L2V5L2@55Sod2VicGFjaytyZWFjdCA=
 webpack中文指南     http://webpackdoc.com/module-system.html
 fetch讲解     https://segmentfault.com/a/1190000003810652
 async/await异步最佳方案       http://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6
 js好网站资源 --原型链       http://www.jb51.net/article/80109.htm
 如何使javascript更高效    http://mt.sohu.com/20170320/n483980156.shtml
+javascript权威指南第六版     http://vdisk.weibo.com/s/DmuB5#_loginLayer_1490675823217

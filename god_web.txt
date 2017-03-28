@@ -6,3 +6,4 @@ async/await异步最佳方案       http://cnodejs.org/topic/5640b80d3a6aa72c5e0
 js好网站资源 --原型链       http://www.jb51.net/article/80109.htm
 如何使javascript更高效    http://mt.sohu.com/20170320/n483980156.shtml
 javascript权威指南第六版     http://vdisk.weibo.com/s/DmuB5#_loginLayer_1490675823217
+vue-router中文文档      https://github.com/vuejs/vue-router/tree/1.0/docs/zh-cn
